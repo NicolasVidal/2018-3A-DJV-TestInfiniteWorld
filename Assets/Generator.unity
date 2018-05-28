@@ -206,6 +206,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   terrain: {fileID: 1812334940}
+  gaussianPerTerrainCount: 9
+  globalSeed: 42
+  terrainSize: 500
+  gammaMinValue: 0.001
+  gammaMaxValue: 0.2
 --- !u!4 &187301891
 Transform:
   m_ObjectHideFlags: 0
